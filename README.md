@@ -34,7 +34,7 @@ with open("file.txt") as fp:
 ```
 
 ### OUTPUT:
-![1](/2.png)
+![1](/3.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
